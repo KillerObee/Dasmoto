@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+  
+  .hero-text {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/pattern.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+  }
+  
+  h2{
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+  }
+
+  #brushes-header{
+      background-color: mediumspringgreen;
+  }
+
+  #frames-header{
+    background-color: lightcoral;
+}
+
+  #paint-header{
+    background-color: skyblue;
+}
+
+strong{
+    color: blue;
+}
